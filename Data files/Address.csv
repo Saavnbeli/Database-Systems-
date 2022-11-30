@@ -1,0 +1,490 @@
+siteID,siteName,address,latitude,longitude
+93498,PHX Building 139,2745 E Air Ln,37.44299,-121.02176
+93499,Old Verde Park Cntr,916 E Van Buren St,37.45205,-121.06179
+93500,North Ranger Station - Old,11659 N 16th St,37.59485,-121.04768
+93501,Lookout Mountain Trailhead,15415 N 16th St,37.6272,-121.0482
+93502,Laveen Basin,6039 S 43rd Ave,37.39098,-121.14917
+93503,Tawa Mini Park,4540 N 11th Ave,37.50389,-121.08718
+93504,Ho-E Mini Park,128 W Illini St,37.41183,-121.07694
+93505,PHX Hangar 1,2435 E Air Ln,37.4437,-121.02926
+93506,Kierland Park,15800 N 66th St,37.63164,-121.94024
+93507,Mong Park,1432 E Wood St,37.40884,-121.04993
+93508,Sunset Basin,3830 N 63rd Ave,37.49361,-121.1967
+93509,Crossed Arrows Park,6102 E Acoma Rd,37.62045,-121.94934
+93510,Watkins Center,1210 W Watkins Rd,37.42621,-121.08767
+93511,PHX Hangar 18,2411 E Air Ln,37.44302,-121.0293
+93512,PHX Commercial Wash Rack,2417 E Air Ln,37.44369,-121.02942
+93513,PHX Hangar 20,2411 E Air Ln,37.44302,-121.02969
+93514,PHX Hangar 19,2411 E Air Ln,37.44304,-121.02953
+93515,Roosevelt Mini Park,837 N 3rd Ave,37.45811,-121.0774
+93516,PHX Building 121,2535 E Air Ln,37.44301,-121.02865
+93517,Construction Site - NSD,415 E Puget Ave,37.56666,-121.06819
+93518,Yapa Park,2732 E Mobile Ln,37.40172,-121.0227
+93519,DVT Covered Wash Area,1200 W Deer Valley Dr,37.68419,-121.0883
+93520,Virginia Park,2605 N 15th St,37.47683,-121.04941
+93521,PHX Hangar 23,417 S 24th St,37.44354,-121.0297
+93522,Taos House,4619 E Washington St,37.44646,-121.98589
+93523,Ladmo Park,3101 N 41st Dr,37.48412,-121.1481
+93524,Generator-326 S 1 AVE,326 S 1st Ave,37.44446,-121.07508
+93525,Old AZGFD Office,2245 W Greenway Rd,37.62489,-121.10651
+93526,Cancer Survivors Park,1428 N 1st St,37.46456,-121.07255
+93527,Townsend Park,520 E Lynwood St,37.46531,-121.06692
+93528,Housing Admin Parking,906 E Jefferson St,37.44752,-121.06177
+93529,Ninos Park,1305 W Sherman St,37.43956,-121.0895
+93530,Shaw Butte Trailhead,12898  N Central Ave,37.60361,-121.07418
+93531,Norton Park,1224 E Hatcher Rd,37.5716,-121.05546
+93532,Cashman Park,22222 N 44th Pl,37.68937,-121.98066
+93537,PHX Hangar 22,2411 E Air Ln,37.44378,-121.02972
+93534,Encanto Boathouse,2605 N 15th Ave,37.47629,-121.08937
+93535,Adams St Parking Lot,717 W Washington St,37.44876,-121.08319
+93536,Mercury Mine Basin Park,3725 E Mountain View Rd,37.57486,-121.00944
+93537,Country Gables Park,3120 W Banff Ln,37.62091,-121.12772
+93538,PHX Building 131 - G,2625 E Air Ln,37.44373,-121.02471
+93539,40th St Trailhead,9200 N 40th St,37.56789,-121.99642
+93540,Bishop Alexis A. Thomas Park,1925 E Carver Dr,37.40357,-121.03987
+93541,Sonrisa Park,12850 N 52nd St,37.60344,-121.9708
+93542,Indian Bend Wash Park,3432 E Presidio Rd,37.60736,-121.00731
+93543,Encanto Snack,2605 N 15th Ave,37.47595,-121.08967
+93544,Christy Cove Park,2352 E Christy Dr,37.58552,-121.03147
+93545,Dreamy Draw Recreation Area,2421 E Northern Ave,37.56441,-121.02914
+93546,Norton Small Building,2700 N 15th Ave,37.47704,-121.09226
+93547,Adobe Mountain Park,3410 W Crest Dr,37.68894,-121.13151
+93548,27th Ave & Baseline Park & Ride,2832 W Baseline Rd,37.37713,-121.11822
+93549,Echo Canyon Trailhead,4925 E McDowell Rd,37.51481,-121.96172
+93550,24th St Fuel Island,6206 N 24th St,37.52774,-121.02968
+93551,Indian Bend Park,13644 N 37th Pl,37.6119,-121.00198
+93552,Kachina Park,4304 E Campbell Ave,37.50287,-121.99019
+93553,Hilaria Rodriguez Park,2801 E Adams St,37.44905,-121.02107
+93554,PHX Hangar 7,2447 E Air Ln,37.44369,-121.02802
+93555,Harmon Pool,1425 S 5th Ave,37.43465,-121.07977
+93556,Falcon Pool,3420 W Roosevelt St,37.45977,-121.13716
+93557,Sumida Park,1809 E Gardenia Ave,37.54389,-121.04292
+93558,Trail 44 Ranger Station,10600 N 7th St,37.5816,-121.06607
+93559,PHX Building 132,2627 E Air Ln,37.44349,-121.02468
+93560,Lewis Park,1238 S 13th Pl,37.43573,-121.05351
+93561,Washington Pool,6655 N 23rd Ave,37.5344,-121.10736
+93562,John W Teets Park,4380 E Ramuda Dr,37.72144,-121.98791
+93563,Perry Park,2626 N 32nd St,37.47746,-121.01373
+93564,Cholla Cove Park,4121 E Lupine Ave,37.59054,-121.99075
+93565,PHX Building 135,2637 E Air Ln,37.44301,-121.02421
+93566,Colter Park,902 W Colter St,37.51347,-121.08475
+93567,Sandpiper Park,6530 E Hearn Rd,37.61587,-121.93977
+93568,Sahuaro West,1650 W Sahuaro Dr,37.58414,-121.09462
+93569,North Mountain Ramadas,10600 N 7th St,37.58312,-121.06631
+93570,Altadena Park,3711 E Altadena Ave,37.59216,-121.00119
+93571,Conocido Park,15645 N 31st Dr,37.63114,-121.12598
+93572,Madison Pool,1440 E Glenrosa Ave,37.49941,-121.04877
+93573,Westown Park,12635 N 37rd Ave,37.6013,-121.12953
+93574,Reflections at Portland,201 E Portland St,37.45975,-121.07087
+93575,Pinnacle Dog Park,20900 N Black Mountain Blvd,37.67615,-121.00671
+93576,Paradise Cove Park,3930 E Monte Cristo Ave,37.63243,-121.99811
+93577,Werner's Field Park,17831 N 7th Ave,37.64811,-121.0813
+93578,Sunburst Paradise Park,16225 N 47th Ave,37.63768,-121.15878
+93579,PHX Building 128,2535 E Air Ln,37.44297,-121.02706
+93580,DVT Police Hangar,720 W Deer Valley Dr,37.68649,-121.07374
+93581,Orme Park,3201 N 47th Pl,37.4861,-121.16076
+93582,Paradise Village,2520 E Aire Libre Ave,37.63725,-121.02788
+93584,North Ranger Station Shop,2245 W Greenway Rd,37.62399,-121.10658
+93585,Quail Run Basin Park,18434 N 12th St,37.65427,-121.05752
+93586,Acoma Park,14421 N 39th Ave,37.61668,-121.14236
+93587,Piestewa Peak,2701 E Squaw Peak Dr,37.54272,-121.01545
+93588,Desert Star Park,8550 W Encanto Blvd,37.47294,-121.24456
+93589,PHX Building 143,3701 E Air Ln,37.44252,-121.00148
+93590,Dove Valley Park,4740 E Rancho Paloma Dr,37.78624,-121.97902
+93591,Hoshoni Park,8515 N 39th Ave,37.56081,-121.1447
+93592,The Bungalow,622 E Adams St,37.44954,-121.06598
+93593,Historic Fire Station 8,541 W Encanto Blvd,37.47275,-121.08255
+93594,Nueve Park,4445 S 9th St,37.40521,-121.05937
+93595,Ma-Ha Tuak Park,9832 S 7th Ave,37.35721,-121.08417
+93596,Bloomfield Warehouse,3201 E Bloomfield Rd,37.59954,-121.01282
+93597,La Cascada I,248 E Ruth Ave,37.56376,-121.06982
+93598,Sherman Parkway,2124 W Sherman St,37.44036,-121.10374
+93599,Jackrabbit Basin,6002 E Paradise Ln,37.63769,-121.94968
+93600,Washington Warehouse,2949 E Washington St,37.44773,-121.01764
+93601,Encanto Park Restrooms,2605 N 15th Ave,37.47153,-121.08988
+93602,Desert Willow Park,4040 E Desert Willow Pkwy W,37.76504,-121.99383
+93603,Vista Canyon Park,16020 S 30th St,37.29935,-121.02032
+93604,Shop - Adobe,4619 E Washington St,37.44739,-121.98422
+93605,Coyote Basin Park,2730 E Beardsley Rd,37.67103,-121.02516
+93606,Sunridge Park,6201 W Roosevelt St,37.45772,-121.19421
+93607,Burn Building,2425 W Lower Buckeye Rd,37.41896,-121.11099
+93608,Happy Valley Park & Ride,24725 N 29th Ave,37.7103,-121.12055
+93609,Nuestro Park,1437 S 9th St,37.4376,-121.06169
+93610,Surrey Park,3835 W Joan De Arc Ave,37.60661,-121.14161
+93611,Palma Park,1135 E Dunlap Ave,37.56681,-121.05752
+93612,Tramonto Park,35425 N 32nd Dr,37.80608,-121.12845
+93613,Cave Creek Park - Sand Lilly,2500 W Cactus Rd,37.59307,-121.11401
+93614,Sunnyslope Pool,325 W Dunlap Ave,37.56708,-121.07876
+93615,Edison Park,901 N 19th St,37.45818,-121.04035
+93616,Royal Palm Park,8405 N 15th Ave,37.5589,-121.08975
+93617,Western Star Park,10419 S 48th St,37.35366,-121.98689
+93618,Jackson Warehouse,3732 E Jackson St,37.44555,-121.00889
+93619,Pioneer and Military Memorial Park,1317 W Jefferson St,37.44662,-121.09043
+93620,North West Division Office,3901 W Glendale Ave,37.53805,-121.14322
+93621,Lookout Mountain Park,14441 N 18th St,37.6178,-121.04276
+93622,Mariposa Park,3150 W Morten Ave,37.54853,-121.12773
+93623,Mountain View Park,9901 N 7th Ave,37.57708,-121.08151
+93624,PHX Building 137,2637 E Air Ln,37.44363,-121.02372
+93625,PCC Tonto Marhalling Yard,1102 E Tonto St,37.43824,-121.0585
+93626,Turtle Rock Basin,17414 N 12th St,37.64484,-121.05908
+93628,Francisco Highland park,2702 E South Mountain Ave,37.37122,-121.02404
+93629,Grover's Basin Park,17447 N 20th St,37.64746,-121.03596
+93630,Trailside Point Park,7215 W Vineyard Rd,37.38516,-121.21259
+93631,Long Homestead Park,2602 W Glendale Ave,37.53956,-121.11462
+93632,PHX Building 122,2535 E Air Ln,37.443,-121.02836
+93637,Arcadia Park,3402 N 56th St,37.48821,-121.96215
+93634,Sahuaro Yard,1602 E Sahuaro Dr,37.58498,-121.04744
+93635,Eastlake Pool,1549 E Jefferson St,37.44643,-121.04836
+93636,Nevitt Park,6823 S 44th Way,37.3861,-121.9838
+93637,Heritage Parking Garage,123 N 5th St,37.44995,-121.06653
+93638,North Ranger Station Office,2245 W Greenway Rd,37.62499,-121.10751
+93639,Stevens-Haustgen House,614 E Adams St,37.44959,-121.06584
+93640,Shemer Art Center & Museum,5005 E Camelback Rd,37.50502,-121.97213
+93641,Tenth St Wash Park,1001 E Townley Ave,37.56552,-121.05983
+93642,Solano Park,5625 N 17th Ave,37.51887,-121.09423
+93643,Fire Station 21,1212 S 27th Ave,37.43622,-121.11767
+93644,Desert Storm Park,1700 E Colter St,37.51371,-121.04558
+93645,Rosson House,115 N 6th St,37.4502,-121.06591
+93646,Playa Margarita Park,3615 W Roeser Rd,37.399,-121.1362
+93647,Alkire Pool,1602 W Pima St,37.43766,-121.09504
+93648,Laveen Village Park,3146 W Vineyard Rd,37.38447,-121.12682
+93649,Encanto District Office,2300 N 17th Ave,37.47344,-121.09679
+93650,Tovrea Castle at Carraro Heights,5025 E Van Buren St,37.4482,-121.97172
+93651,Kuban park,3275 W Sherman St,37.43972,-121.12941
+93652,GR Herberger Park,5802 E Indian School Rd,37.49093,-121.95666
+93653,Winship House,216 W Portland St,37.46027,-121.07718
+93654,Encanto 9-Hole Pro Shop,2308 N 17th Ave,37.47393,-121.09625
+93655,Muriel Smith Rec Center,2230 W Roeser Rd,37.39899,-121.10557
+93656,Paradise Valley Transit Center,4711 E Paradise Village Pkwy N,37.60478,-121.9791
+93657,PHX Building 136,2635 E Air Ln,37.44315,-121.02373
+93658,Thomas House,609 E Adams St,37.44918,-121.06586
+93659,Norton House,2700 N 15th Ave,37.4772,-121.09199
+93660,PHX Building 210,1248 S 25th St,37.43559,-121.02942
+93661,Historic Fire Station 25,4032 N 59th Ave,37.49385,-121.18681
+93662,Palo Verde Pro Shop,6215 N 15th Ave,37.52806,-121.09071
+93663,Holiday Park,4530 N 67th Ave,37.50372,-121.20428
+93664,Green Valley Park,2243 S 14th St,37.42638,-121.05123
+93665,Little Canyon Park,3201 W Missouri Ave,37.51582,-121.1284
+93666,Bret Tarver Learning Center,1416 N 35th Ave,37.46571,-121.13493
+93667,Central Park,140 E Tonto St,37.43868,-121.0719
+93668,Dust Devil Park,10645 W Camelback Rd,37.50728,-121.28885
+93669,Bouvier-Teeter House,622 E Adams St,37.44961,-121.06566
+93670,24th St/Baseline Park & Ride,7415 S 24th St,37.37949,-121.02952
+93671,Papago Ramadas,625 N Galvin Pkwy,37.45484,-121.9473
+93672,Valley Garden Center,1809 N 15th Ave,37.46822,-121.09109
+93673,Paradise Greens,16001 N 25th St,37.6319,-121.02746
+93674,Palomino Park,15815 N 30th St,37.63005,-121.01667
+93675,Mountain View Tennis Center,1218 E Grovers Ave,37.64787,-121.05906
+93676,Sweetwater Park,13230 N 44th St,37.60572,-121.98705
+93677,79th Ave / I-10 Park & Ride,7805 W McDowell Rd,37.46503,-121.22855
+93678,Sunnyslope Transit Center,8927 N 3rd St,37.56708,-121.06929
+93679,Command Training Center,7717 N 27th Ave,37.54993,-121.11661
+93680,La Pradera Maintenance Yard,6830 N 39th Ave,37.53757,-121.14326
+93681,Fire Driver Training Bldg,2425 W Lower Buckeye Rd,37.42171,-121.11038
+93682,Dynamite Park,4550 E Dynamite Blvd,37.73472,-121.13662
+93683,Sunnyslope - Youth Center,1702 W Peoria Ave,37.58257,-121.09531
+93684,Sueno Park,4401 W Encanto Blvd,37.47141,-121.15385
+93685,Encanto Park Clubhouse,2605 N 15th Ave,37.47607,-121.08794
+93686,Santa Maria Park,3425 S 71st Ave,37.4176,-121.21139
+93687,Metrocenter Park & Ride,9451 N Metro Pkwy W,37.57287,-121.12342
+93688,DVT Maintenance Bldg West,702 W Deer Valley Dr,37.68408,-121.0921
+93689,North Mountain Visitor Center,12950 N 7th St,37.59855,-121.06681
+93690,PHX Building 127,2505 E Air Ln,37.44364,-121.02734
+93691,DVT Hangar 8,930 W Deer Valley Dr,37.68455,-121.08645
+93692,Baird Machine Shop,623 E Adams St,37.44921,-121.06564
+93693,Moon Valley Park,502 W Coral Gables Dr,37.62652,-121.0814
+93694,PHX Mohave Parking Lot South,2010 S 24th St,37.42863,-121.03168
+93695,PHX Building 123,2535 E Air Ln,37.443,-121.02808
+93696,Aguila Golf Pro Shop,8440 S 35th Ave,37.36997,-121.13985
+93697,Sereno Park,5720 E Sweetwater Ave,37.60605,-121.95786
+93698,Fire Station 34,50 N 51st Ave,37.44894,-121.16952
+93699,27th Ave Landfill,3060 S 27th Ave,37.42025,-121.12489
+93700,27th Ave Landfill,3060 S 27th Ave,37.42025,-121.12489
+93701,PHX Maintenance Support,3728 E Jackson St,37.44553,-121.00896
+93702,La Pradera Park,6830 N 39th Ave,37.53701,-121.14502
+93703,Fire Station 14,1370 N 32nd Ave,37.46396,-121.12756
+93704,DVT Hangar 12,702 W Deer Valley Dr,37.68473,-121.07958
+93705,Fire Station 06,368 W Apache St,37.43041,-121.08008
+93706,Granada Park,6505 N 20th St,37.53239,-121.0365
+93707,Fire Station 13,2828 N 47th Pl,37.47884,-121.97863
+93708,Grant Pool,707 S 3rd Ave,37.44085,-121.07665
+93709,Police Air Support Hanger,702 W Deer Valley Dr,37.6864,-121.07341
+93710,Buffalo Ridge Park,19250 N 16th St,37.65983,-121.0464
+93711,Desert Broom Park,29805 N Cave Creek Rd,37.75205,-121.99397
+93712,Monterey Park,350 E Oak St,37.47393,-121.06748
+93713,Sun Ray Park,4059 E Ray Rd,37.31904,-121.99806
+93714,Desert Horizon Park,16002 56th St,37.63186,-121.96249
+93715,19th Ave Landfill,1851 W Lower Buckeye Rd,37.41923,-121.09676
+93716,19th Ave Landfill,1851 W Lower Buckeye Rd,37.41923,-121.09676
+93717,Surplus Ops,2820 S 22nd Ave,37.42193,-121.10736
+93718,Senior Opportunities - West,1224 S 7th Ave,37.43591,-121.08267
+93720,South Phoenix Youth Center,5245 S 7th St,37.39791,-121.06428
+93721,Venturoso Park,14425 N 32nd St,37.61708,-121.01147
+93722,Encanto Pool,2125 N 15th Ave,37.47242,-121.08985
+93723,Manzanita Park,5500 S 31st Ave,37.39784,-121.12716
+93724,Mtn View Community Center,1104 E Grovers Ave,37.64805,-121.05979
+93725,Vernell Coleman Rec Center,830 W Tonto St,37.43887,-121.08397
+93726,SR-51 /  Bell Road Park & Ride,3535 E Bell Rd,37.63983,-121.00544
+93727,Building 3 - Archaeological Repository,4619 E Washington St,37.44677,-121.98579
+93728,Desert Foothills Park,1010 E Marketplace SE,37.30573,-121.05969
+93729,305 Parking Garage,305 Washington St,37.44771,-121.07841
+93730,Foothills Court,1606 W Peoria Ave,37.58253,-121.09383
+93731,Emergency Vehicle Operations Center,8645 W Broadway Rd,37.40246,-121.24456
+93732,Desert Sky Transit Center,7887 W Thomas Rd,37.47913,-121.22875
+93737,La Cascada II,229 E Ruth Ave,37.56272,-121.07027
+93734,Cactus Park Irrigation Well,3101 W Cactus Rd,37.59619,-121.12552
+93735,Fire Station 72,37027 N Cave Creek Rd,37.78501,-121.97151
+93736,Windrose Villas,1520 W Peoria Ave,37.58261,-121.09186
+93737,SR-51 / Shea Park & Ride,10203 N 32nd St,37.58056,-121.01121
+93738,Fire Station 07,403 E Hatcher Rd,37.57124,-121.06814
+93739,Fire Station 17,1531 E Missouri Ave,37.51616,-121.04834
+93740,Central Station Transit Center,300 N Central Ave,37.45213,-121.0743
+93741,Smith Park,4030 W Sherman St,37.44146,-121.14643
+93742,Kid St Park - Atkinson Rec Cen,4535 N 23rd Ave,37.50364,-121.10791
+93743,Thunderbird Teen Center,1106 E Grovers Ave,37.64866,-121.05969
+93744,Fire Station 39,2276 W Southern Ave,37.39262,-121.10755
+93745,Fire Station 22 - Admin,220 E Roeser Rd,37.40015,-121.07042
+93746,Fire Station 28,7409 S 16th St,37.37928,-121.04683
+93747,Fire Station 27,12449 N 32nd St,37.60042,-121.0128
+93748,Fire Station 45,20030 N 26th St,37.66861,-121.02674
+93749,So Mt Env Education Center,10409 S Central Ave,37.35081,-121.0761
+93750,Senior Services Meal Prep Facility,701 W Buchanan St,37.44266,-121.08271
+93751,DVT Aircraft Maintenance Bays,702 W Deer Valley Dr,37.6849,-121.09206
+93752,Fire Station 42,3246 W Greenway Rd,37.62564,-121.12924
+93753,Verde Park Recreation Center,916 E Van Buren St,37.4519,-121.06135
+93754,Visual Arts Building,220 E Moreland St,37.46156,-121.07041
+93755,Fire Station 48,5230 W Happy Valley Rd,37.71101,-121.21177
+93756,Foothills on the Preserve,1525 E Cheryl Dr,37.57746,-121.04936
+93757,DVT Hangar 18,700 W Deer Valley Dr,37.68484,-121.07618
+93758,Mountain View Pool,1104 E Grovers Ave,37.64822,-121.05983
+93759,Fire Station 58,4718 W Dobbins Rd,37.36379,-121.16121
+93760,Adam Diaz Senior Center,4115 W Thomas Rd,37.48002,-121.148
+93761,Fire Station 15,4730 N 43rd Ave,37.50634,-121.15196
+93762,Fire Station 46,15402 E Marketplace Way,37.3068,-121.05216
+93763,Rio Salado Parking,2801 S 7th Ave,37.42072,-121.08086
+93764,El Prado Pool,6428 S 19th Ave,37.38697,-121.10165
+93765,Fire Station 23,4416 S 32nd St,37.40592,-121.01316
+93766,Fire Station 31,5730 E Thunderbird Rd,37.61189,-121.95749
+93767,Desert Meadows,16819 N 42nd Ave,37.63726,-121.14788
+93768,2705 Building,2705 N 15th Ave,37.47702,-121.09021
+93769,PHX 42nd St Employee Lot,4000 E Sky Harbor Blvd,37.43801,-121.9866
+93770,Coronado Pool,1717 N 12th St,37.46758,-121.05589
+93771,DVT Hangar 22,702 W Deer Valley Dr,37.68487,-121.07599
+93772,Salt River SC Storage,3045 S 22nd Ave,37.41941,-121.10409
+93773,Hayden Park,322 W Tamarisk St,37.40492,-121.07888
+93774,Fire Station 40,3838 N 83rd Ave,37.49143,-121.23818
+93775,Cave Creek Park - Cholla,2505 W Cholla St,37.58927,-121.11324
+93776,Fire Station 49,3750 E Dynamite Blvd,37.74146,-121.99608
+93777,DVT Hangar 27,702 W Deer Valley Dr,37.6931,-121.0808
+93778,I-17 / Bell Park & Ride,16808 N Black Canyon Hwy,37.63888,-121.11787
+93779,Fire Station 05,1840 E Cambridge Ave,37.47784,-121.04171
+93780,Fire Station 20,726 W Glendale Ave,37.53881,-121.08345
+93781,Esteban Park,3745 E Roeser Rd,37.39807,-121.00995
+93782,Deck Park Vista,1215 N 3rd St,37.46104,-121.06836
+93783,Acacia Library,746 E Townley Ave,37.5661,-121.06436
+93784,Sand Dollar,18410 N 27th Ave,37.65324,-121.11764
+93785,Fire Station 16,1414 E Mohave St,37.43184,-121.05141
+93786,Fire Station 55,26700 N 27th Ave,37.72622,-121.11739
+93787,Fire Station 35,646 E Paradise Ln,37.63731,-121.06592
+93788,Cave Creek Golf Clubhouse,15202 N 19th Ave,37.61719,-121.10638
+93789,E. McLoughlin Comm Center,1150 S 7th Ave,37.43726,-121.08301
+93790,Circle K Park,1346 E South Mountain Ave,37.37113,-121.0552
+93791,Fire Station 24,2602 N 43rd Ave,37.47709,-121.15208
+93792,Fire Station 38,5002 E Warner Rd,37.37296,-121.9786
+93793,Ocotillo Library,102 W Southern Ave,37.3927,-121.07468
+93794,Shadow Mountain Senior Center,3546 E Sweetwater Ave,37.60222,-121.17414
+93795,Deer Valley Pool,19400 N 19th Ave,37.66281,-121.10041
+93796,Fire Station 37,2409 W Cactus Rd,37.59628,-121.12111
+93797,Fire Station 36,21602 N 9th Ave,37.68197,-121.08565
+93798,Deem Hills Rec Area,5050 W Andrea Ln,37.72783,-121.16649
+93799,FEMA Warehouse,2450 S 22nd Ave,37.47471,-121.10744
+93800,Fire Station 04,1601 N 3rd Ave,37.46609,-121.07803
+93801,PHX West Economy Parking Lot,2910 E Buckeye Rd,37.4363,-121.01935
+93802,Fire Station 37,16602 N 40th St,37.63735,-121.99459
+93803,Fire Station 26,3701 W Rose Ln,37.52718,-121.13036
+93804,Fire Station 22,230 E Roeser Rd,37.39989,-121.07017
+93805,East District Office,1001 N 52nd St,37.45905,-121.96926
+93806,South Mountain Detectives Building,400 W Southern Ave,37.39272,-121.07889
+93807,Century Library,1750 E Highland Ave,37.50615,-121.04354
+93808,Cave Creek Park - Cactus,2400 W Cactus Rd,37.59789,-121.11078
+93809,PHX Tonto East Parking,986 S 24th St,37.43884,-121.03219
+93810,Traffic Services Bldg,1101 E Jefferson St,37.44692,-121.05868
+93811,University Pool,1002 W Van Buren St,37.45236,-121.08739
+93812,El Oso Park,3451 N 75th Ave,37.48808,-121.21857
+93813,Driver Training Bldg with Offices,3535 S 35th Ave,37.41483,-121.12974
+93815,Helen Drake Senior Center,7600 N 27th Ave,37.54836,-121.11773
+93816,Sign Shop,4035 W Glenrosa Ave,37.49831,-121.14723
+93817,Neighborhood Resource Center,2405 E Broadway Rd,37.40613,-121.10959
+93818,40th St  /  Pecos Park Transit Center,17010 S 40th St,37.29352,-121.99825
+93819,Fire Station 11,2727 E Roosevelt St,37.45814,-121.02274
+93820,Lath House Pavilion,601 E Monroe St,37.45008,-121.06548
+93821,Fire Station 56,3210 W Canotia Pl,37.80107,-121.1289
+93822,Broadway Heritage Resource Ctr,2405 E Broadway Rd,37.40613,-121.10959
+93823,Fire Station 61,1925 E Indian School Rd,37.49423,-121.04006
+93824,Barrios Unidos Park,1501 E Mohave St,37.43034,-121.05072
+93825,Fire Station 60,2405 W Townley Ave,37.56523,-121.121
+93826,Fire Station 10,2731 N 24th Dr,37.47881,-121.12137
+93827,Longview Neighborhood Rec Center,4040 N 14th St,37.49426,-121.05192
+93828,Marivue Park,5625 W Osborn Rd,37.48597,-121.18
+93829,Harmon Gym,1425 S 5th Ave,37.43485,-121.08016
+93830,DVT Hangar 36,22500 N 4th Ave,37.69309,-121.0805
+93831,Fire Station 54,9820 W Campbell Ave,37.50172,-121.2707
+93832,Fire Station 52,21650 N Tatum Blvd,37.68302,-121.97696
+93837,Sunnyslope Community Cntr - Main,802 E Vogel Ave,37.57374,-121.06303
+93834,Fire Station 44,7117 W Mcdowell Rd,37.46532,-121.21242
+93835,Sunnyslope Comm Cntr - Gym,802 E Vogel Ave,37.57374,-121.06303
+93836,DVT Hangar 45,702 W Deer Valley Dr,37.69315,-121.07705
+93837,Ed Pastor Transit Center,10 W Broadway Rd,37.40706,-121.07444
+93838,Phoenix Center for the Arts,1202 N 3rd St,37.46166,-121.06988
+93839,PHX Tonto West Parking,2325 E Sky Harbor Cir North,37.44089,-121.03578
+93840,Book Mobile Warehouse,1370 N 29th Dr,37.46341,-121.12371
+93841,John F Long  Family Services Center,3454 N 51st AVE,37.48969,-121.17083
+93842,David Uribe Pool,3801 W Cactus Rd,37.59457,-121.14073
+93843,Fire Station 57,1660 W Dobbins Rd,37.36516,-121.09402
+93844,Maryvale Pool,4444 N 51st Ave,37.50138,-121.16957
+93845,Mountain Park Ranch,15325 S Mountain Pkwy,37.30862,-121.99966
+93846,Yucca Library,5648 N 15th Ave,37.51988,-121.09158
+93847,McDowell Senior Center,1845 E McDowell Rd,37.46524,-121.04143
+93848,Fire Station 18,5019 N 23rd Ave,37.51043,-121.10784
+93849,Fire Station 08,1025 E Polk St,37.45261,-121.05925
+93850,Housing Admin Bldg,870 E Jefferson St,37.44737,-121.06271
+93851,Desert Broom Library,29710 N Cave Creek Rd,37.75394,-121.99375
+93852,Telephone Pioneer Park,1946 W Morningside Dr,37.6492,-121.10168
+93853,Fire Station 59,1211 S 65th Ave,37.43776,-121.19748
+93854,Saguaro LIbrary,2808 N 46th St,37.47872,-121.98299
+93855,Fire Station 32,7620 S 42nd Pl,37.37724,-121.99272
+93856,Papago Sports Complex,1802 N 64th St,37.46879,-121.94507
+93857,Starlight Pool,7810 W Osborn Rd,37.48796,-121.22839
+93858,Planning & Development Bldg,438 W Adams Street,37.44962,-121.07979
+93859,Pierce Park,4501 E Oak St,37.47137,-121.9839
+93860,A.E. England Building,424 N Central Ave,37.45322,-121.07424
+93861,Sunnyslope Police Station,750 W Peoria Ave,37.58277,-121.08305
+93862,Fire Station 03,1257 W Pierce St,37.45574,-121.09092
+93863,Fire Station 12,4247 N 32nd St,37.49858,-121.01238
+93864,Glenrosa Solid Waste Bldg,4020 W Glenrosa Ave,37.49905,-121.1463
+93865,Eastlake Comm Ctr & Gym,1545 E Jefferson St,37.44706,-121.04909
+93866,Roosevelt Pool,6246 S 7th St,37.38896,-121.06573
+93867,Fire Station 29,3949 E Air Ln,37.44383,-121.01552
+93868,PHX City Hangar,2725 E Air Ln,37.44374,-121.02276
+93869,Cielito Pool,3402 W Campbell Ave,37.50373,-121.13226
+93870,Fire Station 09,370 E Fairmount Ave,37.49329,-121.06836
+93871,Heritage Garage,125 N 5th St,37.44993,-121.06693
+93873,Mountain Vista Park,13647 S 50th St,37.32304,-121.97582
+93874,Facilities Management Bldg,2631 S 22 Ave,37.42323,-121.10512
+93875,Ironwood Library,4373 E Chandler Blvd,37.30481,-121.98986
+93876,Desert Sage Library,7602 W Encanto Blvd,37.47394,-121.22359
+93877,Sunnyslope Family Services Center,914 W Hatcher Rd,37.57226,-121.08567
+93878,DVT Terminal,702 W Deer Valley Dr,37.68551,-121.08303
+93879,Fire Station 50,20225 N 35Th Ave,37.67053,-121.13404
+93880,Cortez Park Pool,3434 W Dunlap Ave,37.568,-121.13253
+93881,PHX Executive Terminal,2908 E Sky Harbor Blvd,37.43787,-121.01944
+93882,Graffiti Warehouse,3725 W Flower St,37.48479,-121.12978
+93883,PHX RCC Small Ops,1712 E Rental Car Way,37.42848,-121.04558
+93884,Juniper LIbrary,1825 W Union Hills Dr,37.65456,-121.09805
+93885,Encanto Maintenance and Warehouse,1802 W Encanto Blvd,37.47386,-121.09774
+93886,Fire Station 25,4010 N 63rd Ave,37.49352,-121.19563
+93887,Desert Horizon Precinct,16030 N 56th St,37.63229,-121.95987
+93888,Harmon Library,1325 S 5th Ave,37.43594,-121.08007
+93889,Fire Station 30,2701 W Belmont Ave,37.54895,-121.11758
+93890,South Mountain Senior Center,502 E Alta Vista Rd,37.38957,-121.07018
+93891,MDC/SVD,425 E Buckeye Rd,37.43579,-121.06823
+93892,Hermoso Park,2030 E Southern Ave,37.39535,-121.03778
+93893,Travis L Williams Family Services Center,4732 S Central Ave,37.4035,-121.07468
+93894,South Mountain Precinct,400 W Southern Ave,37.39318,-121.0791
+93895,Fire Dept - Special Operations,2430 S 22nd Ave,37.42534,-121.10713
+93896,Maryvale Precinct,6180 W Encanto Blvd,37.47375,-121.19224
+93897,Central Precinct,1902 S 16th St,37.42907,-121.04925
+93898,Los Olivos Park - Devonshire Center,2802 E Devonshire Ave,37.49715,-121.02009
+93899,Fire Station 41,2501 W Morningside Dr,37.64841,-121.11314
+93900,South Mountain Community Center,6235 S 2nd St,37.38904,-121.07058
+93901,Skunk Creek Landfill,2920 W Happy Valley Rd,37.71235,-121.12473
+93902,Skunk Creek Landfill,2920 W Happy Valley Rd,37.71235,-121.12473
+93903,Glenrosa Fleet Services,4015 W Glenrosa Ave,37.49832,-121.14539
+93904,Northern Command,302 E Union Hills Dr,37.65494,-121.06905
+93905,Fire Station 01,323 N 4th Ave,37.45222,-121.0786
+93906,Cactus Park Precinct,12220 N 39th Ave,37.59709,-121.14341
+93907,Cholla Library,10050 Metro Parkway East,37.57806,-121.11981
+93908,Salt River Fleet Services,3045 S 22nd Ave,37.41953,-121.10455
+93909,Paradise Valley Community Cntr,17642 N. 40th ST,37.64546,-121.99698
+93910,Agave Library,23550 N 36th AVE,37.69943,-121.14027
+93911,Desert West Community Center,6501 W Virginia Ave,37.47639,-121.20083
+93912,Washington Activity Center,2240 W Citrus Way,37.53025,-121.10757
+93913,Fire Station 43,4110 E Chandler Blvd,37.30564,-121.9946
+93914,Glenrosa Park Admin,4155 W Glenrosa Ave,37.49805,-121.14791
+93915,Cesar Chavez Library,3635 W Baseline Rd,37.37752,-121.1366
+93916,Deer Valley Community Center,19602 N 19th Ave,37.66382,-121.10199
+93917,City Clerk Cust Srv Center,2640 S 22nd Ave,37.42267,-121.10682
+93918,Steele Indian School Restroom,300 E Indian School Rd,37.49881,-121.06911
+93919,Mesquite Library,4525 E Paradise Village Pkwy,37.60467,-121.98369
+93920,Signal Shop,2141 E Jefferson St,37.44681,-121.03516
+93921,Design & Construction Management Bldg,1034 E Madison St,37.44603,-121.05992
+93922,PHX DCS Building,500 S 24th St,37.44344,-121.03169
+93923,Historic City Hall,17 S 2nd Ave,37.44777,-121.07575
+93924,Paradise Valley Pools,17648 N 40th St,37.64741,-121.99742
+93925,Police Air Support,702 W Deer Valley Dr,37.68663,-121.07341
+93926,PHX Aviation Admin Building,3420 E Sky Harbor Blvd,37.43622,-121.00661
+93927,PHX Bus Maint Facility,2425 E Buckeye Rd,37.43605,-121.03748
+93928,Estrella Mountain Precinct,2121 S 99th Ave,37.42539,-121.2675
+93929,Black Mountain Precinct,37355 N Cave Creek Rd,37.78771,-121.96909
+93930,Southern Command,3443 S Central Ave,37.41464,-121.07255
+93931,Memorial Hall,300 E Indian School Rd,37.49777,-121.06967
+93932,PHX Fire Station 19,3547 E Sky Harbor Blvd,37.43421,-121.0056
+93937,Maryvale Terrace,4545 N Maryvale Pkwy,37.5036,-121.17064
+93934,Mountain View Precinct,2075 E Maryland Ave,37.52986,-121.03588
+93935,PHX Operations Center,3700 E Sky Harbor Blvd,37.43566,-121.01214
+93936,Pueblo Grande Museum,4619 E Washington St,37.44675,-121.98479
+93937,Recruit Training Building,2425 W Lower Buckeye Rd,37.41996,-121.12138
+93938,Salt River Service Center Office,3045 S 22nd Ave,37.41902,-121.10581
+93939,Rose Mofford,9837 N 25th Ave,37.57471,-121.11081
+93940,Cave Creek Park- Sweetwater,2409 W Sweetwater Ave,37.60498,-121.11051
+93941,Reach 11 Soccer Bldg,2425 E Deer Valley Dr,37.68389,-121.02275
+93942,PHX Building A - Cargo,1247 S 27th St,37.43463,-121.02253
+93943,Japanese Friendship Garden,1215 N 3rd Ave,37.461,-121.07676
+93944,Phoenix Theatre,100 E McDowell Rd,37.4668,-121.0721
+93945,PHX Building B - Cargo,1249 S 27th St,37.43466,-121.02344
+93946,Goelet A Beuf Community Center,3435 W. Pinnacle Peak Rd,37.69624,-121.13291
+93947,Luke Krohn Apartments,1940 1/2 E. Villa St,37.45687,-121.04122
+93948,Ambassador West,340 N 5th Ave,37.45281,-121.0804
+93949,Maryvale Community Center,4402 N 51st Ave,37.50052,-121.17223
+93950,PHX East Econ Pkg Garage,4445 E Sky Harbor Blvd,37.43543,-121.98391
+93951,Herberger Theater,222 E Monroe St,37.45104,-121.07079
+93952,PHX Facilities & Services,2515 E Buckeye Rd,37.43647,-121.02764
+93953,Fire Admin - Ops Phase 1,150 S 12th St,37.44574,-121.0577
+93954,Sunnyslope Manor,205 E Ruth Ave,37.56282,-121.07142
+93955,PineTower,2936 N 36th St,37.48206,-121.00484
+93956,Fillmore Gardens,802 N 22nd Pl,37.45673,-121.03712
+93957,Fire Resource Management,2625 S 19th Ave,37.42384,-121.09864
+93958,Okemah Bldg,3828 E Anne St,37.4146,-121.99711
+93959,Equipment Mgmt Complex,2441 S 22 Ave,37.42482,-121.10515
+93960,PHX Consolidated Office Building,2485 E Buckeye Rd,37.43583,-121.03144
+93961,PHX Building C - Cargo,1251 S 25th St,37.43504,-121.02546
+93962,Vision Partnership,3945 E Broadway Rd,37.40805,-121.7462
+93964,PHX Building 1302,2739 E Washington St,37.44778,-121.02183
+93965,Cesar Chavez Park,7858 S 35th Ave,37.37291,-121.13628
+93966,PHX Terminal 2,3200 E Sky Harbor Blvd,37.43619,-121.01359
+93967,Union Hills Svc Cntr Main,202 E Union Hills Dr,37.65486,-121.07616
+93968,Symphony Hall,75 N 2nd St,37.44885,-121.07058
+93969,AHQ2 Building 8,2425 W Lower Buckeye Rd,37.41987,-121.11055
+93970,PCC East Garage,601 E Washington St,37.44769,-121.06636
+93971,Pecos Park - Community Center,17010 S 48th St,37.29166,-121.98354
+93972,Sidney P Osborn Apartments,1730 E Moneroe St,37.45039,-121.0445
+93973,Evidence Lot/Warehouse,100 E Elwood St,37.41491,-121.07016
+93974,Police Academy,10001 S 15th Ave,37.35426,-121.08745
+93975,Fire Admin - Ops Phase 2,150 S 12th St,37.44574,-121.0577
+93976,Regency Garage,121 E Adams St,37.44906,-121.07187
+93977,Adams St Garage,310 W Adams St,37.44947,-121.07818
+93978,PCC South Bldg,95 S 3rd St,37.44731,-121.06939
+93979,Phoenix Municipal Courts Bldg,300 W Washington St,37.44877,-121.07832
+93980,Central Library - Burton Barr,1221 N Central Ave,37.46323,-121.07286
+93981,27th Ave Transfer Stn,3060 S. 27th Ave,37.41652,-121.12126
+93982,PHX South Air Cargo,3002 E Old Tower Rd,37.42462,-121.01578
+93983,Phoenix Art Museum,1625 N Central Ave,37.46698,-121.07257
+93984,North Gateway Transfer Station,30205 N Black Canyon Hwy,37.76058,-121.11647
+93985,Police Crime Lab,621 W Washington St,37.44766,-121.08191
+93986,Family Advocacy Center,2120 N Central Ave,37.47141,-121.07443
+93987,Police Headquarters,620 W Washington St,37.44877,-121.08198
+93988,PHX Rental Car Center,1795 E Sky Harbor Cir S,37.43014,-121.0451
+93989,Phoenix City Hall,200 W Washington St,37.44879,-121.07707
+93991,PCC North & West Bldgs,100 N 3rd St,37.44981,-121.07045
+93992,PHX Terminal 3,3400 E Sky Harbor Blvd,37.43543,-121.00829
+93993,PHX Terminal 4,3800 E Sky Harbor Blvd,37.43549,-121.99787
